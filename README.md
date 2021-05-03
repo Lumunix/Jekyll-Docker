@@ -22,4 +22,4 @@ docker-compose up
 ![Site](readme/site.png)
 
 5. The Jekyll admin console is available [Here](http://127.0.0.1:4000/admin)
-![Site](readme/admin.png)
+![Jeykll Admin](readme/admin.png)

@@ -19,3 +19,7 @@ docker-compose up
 ![docker compose command](readme/command1.png)
 
 4. You should now be able to go to your web browser and view the site [Here](http://127.0.0.1:4000/)
+![Site](readme/site.png)
+
+5. The Jekyll admin console is available [Here](http://127.0.0.1:4000/admin)
+![Site](readme/admin.png)

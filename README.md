@@ -1,4 +1,4 @@
-# Jekyll-Docker - Jekyll blog template in a docker container.
+# Jekyll-Docker - Jekyll blog template in a docker container with Jekyll Admin CMS.
 ![Project-Banner](/readme/project-banner.png)
 
 ## About

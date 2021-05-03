@@ -1,20 +1,22 @@
-# Jekyll-Docker
- Jekyll blog template in a docker container.
+# Jekyll-Docker - Jekyll blog template in a docker container.
 ![Project-Banner](/readme/project-banner.png)
 
-# Jekyll & Docker Compose
+## About
 
-This project provides an example for building a Jekyll blog/site with Docker Compose. Using Docker you can easily
-develop your Jekyll site without installing Ruby and can develop it from computer to computer with a consistent
-environment.  This is particularly helpful for Windows users.
+This template repository provides an example of a Jekyll blog with Docker Compose. By using docker you can have a consistent environment across computers and you don't have to deal with installing ruby and its dependencies. The Jekyll plugin [Jeykll Admin](https://github.com/jekyll/jekyll-admin) is also present, which allows a CMS (Content Management System) experience similar to Wordpress.
 
-## Why Use Docker
+1. [Install Docker/Compose](https://docs.docker.com/compose/install/). You must have Docker and Compose installed to run your Jekyll project in Docker.
 
-Docker containers provide a consistent environment across different computers.  For the non-Ruby developer, it means you don't have to install Ruby on Rails to your system to make your site.  This is a great option for Windows users who don't want to deal with Ruby.  No matter what system you use, with Docker, every time you run your container it is isolated form the rest of your computer.  No extra installs, downloads, or running programs other than Docker and your favorite editor.
+## Usage
 
-## Getting Started
-
-#### Prerequisites
+1. [Install Docker/Compose](https://docs.docker.com/compose/install/). You must have Docker and Compose installed to run your Jekyll project in Docker.
  You must have Docker and Compose installed to run your Jekyll project in Docker.
 
  [Instructions to install Docker Compose](https://docs.docker.com/compose/install/)
+
+
+ 4. Using GWSL, navigate to the **<Repo Directory>/windows** folder, run docker compose to start Intellij
+
+ ```
+ docker-compose up
+ ```

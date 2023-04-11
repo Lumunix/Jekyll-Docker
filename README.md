@@ -3,7 +3,7 @@
 
 ## About
 
-This template repository provides an example of a Jekyll blog with Docker Compose. By using docker you can have a consistent environment across computers and you don't have to deal with installing ruby and its dependencies. The Jekyll plugin [Jeykll Admin](https://github.com/jekyll/jekyll-admin) is also present, which allows a CMS (Content Management System) experience similar to Wordpress.
+This template repository provides an example of a Jekyll blog. By using docker you can have a consistent environment across computers and you don't have to deal with installing ruby and its dependencies. The Jekyll plugin [Jekyll Admin](https://github.com/jekyll/jekyll-admin) is also present, which allows a CMS (Content Management System) experience similar to Wordpress.
 
 ## Usage
 
@@ -22,4 +22,4 @@ docker-compose up
 ![Site](readme/site.png)
 
 5. The Jekyll admin console is available [Here](http://127.0.0.1:4000/admin)
-![Jeykll Admin](readme/admin.png)
+![Jekyll Admin](readme/admin.png)

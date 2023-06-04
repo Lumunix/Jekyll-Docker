@@ -17,7 +17,7 @@ This template repository provides an example of a Jekyll blog. By using docker y
     ```
     docker-compose up
     ```
-  ![docker compose command](readme/command1.PNG)
+    ![docker compose command](readme/command1.PNG)
 
 4. You should now be able to go to your web browser and view the site [Here](http://127.0.0.1:4000/)
   ![Site](readme/site.png)

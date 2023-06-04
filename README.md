@@ -11,10 +11,12 @@ This template repository provides an example of a Jekyll blog. By using docker y
 
 2. Create your own copy of this repo using Github's Repository template feature. Clone it to your machine.
 
+
 3. In the directory you downloaded the project, open command line or terminal and run the following command.
-  ```
-  docker-compose up
-  ```
+
+    ```
+    docker-compose up
+    ```
   ![docker compose command](readme/command1.PNG)
 
 4. You should now be able to go to your web browser and view the site [Here](http://127.0.0.1:4000/)

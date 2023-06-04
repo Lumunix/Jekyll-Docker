@@ -13,13 +13,13 @@ This template repository provides an example of a Jekyll blog. By using docker y
 
 3. In the directory you downloaded the project, open command line or terminal and run the following command.
 
-```
-docker-compose up
-```
-![docker compose command](readme/command1.PNG)
+  ```
+  docker-compose up
+  ```
+  ![docker compose command](readme/command1.PNG)
 
 4. You should now be able to go to your web browser and view the site [Here](http://127.0.0.1:4000/)
-![Site](readme/site.png)
+  ![Site](readme/site.png)
 
 5. The Jekyll admin console is available [Here](http://127.0.0.1:4000/admin)
-![Jekyll Admin](readme/admin.png)
+  ![Jekyll Admin](readme/admin.png)
